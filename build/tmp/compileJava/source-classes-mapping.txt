@@ -1,8 +1,8 @@
-com/stackandqueues/Stack.java
- com.stackandqueues.Stack
+com/stackandqueues/MyLinkedList.java
+ com.stackandqueues.MyLinkedList
 com/stackandqueues/INode.java
  com.stackandqueues.INode
 com/stackandqueues/com/stackandqueues/MyNode.java
  com.stackandqueues.com.stackandqueues.MyNode
-com/stackandqueues/MyLinkedList.java
- com.stackandqueues.MyLinkedList
+com/stackandqueues/Stack.java
+ com.stackandqueues.Stack
