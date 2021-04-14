@@ -1,6 +1,6 @@
 package com.stackandqueues;
 
-import com.stackandqueues.com.stackandqueues.MyNode;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
